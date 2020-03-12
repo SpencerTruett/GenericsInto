@@ -1,0 +1,11 @@
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\gilde\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
